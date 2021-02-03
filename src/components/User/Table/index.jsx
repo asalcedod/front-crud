@@ -1,9 +1,8 @@
 import { Table } from "reactstrap";
-import React, { useState } from "react";
+import React from "react";
 import "./table.css";
 
-const CRUD = ({ data }) => {
-  const [color, setColor] = useState("");
+const CRUD = ({ data, color }) => {
 
   const renderData = (dataList) => {
     const renderUser = (user) => {

@@ -8,7 +8,6 @@ import {
   NavItem,
   NavLink,
 } from "reactstrap";
-import { Link } from "react-router-dom";
 import "./NavMenu.css";
 
 const NavMenu = () => {
@@ -19,10 +18,10 @@ const NavMenu = () => {
 
   return (
     <header>
-      <Navbar className="navbar-expand-sm navbar-toggleable-sm box-shadow mb-3">
+      <Navbar className="navbar-expand-sm navbar-toggleable-sm box-shadow">
         <Container>
-          <NavbarBrand tag={Link} className="text-light" to="/">
-            User List
+          <NavbarBrand className="text-light">
+            GRID List User
           </NavbarBrand>
           <NavbarToggler onClick={toggleNavbar} className="mr-2" />
           <Collapse
@@ -32,8 +31,8 @@ const NavMenu = () => {
           >
             <ul className="navbar-nav flex-grow">
               <NavItem>
-                <NavLink tag={Link} className="text-light" to="/">
-                  User
+                <NavLink className="text-light" href="https://github.com/asalcedod/front-grid">
+                  Repositories GitHub
                 </NavLink>
               </NavItem>
             </ul>
