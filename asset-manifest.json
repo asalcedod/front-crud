@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/front-grid/static/css/main.f5b86faf.chunk.css",
-    "main.js": "/front-grid/static/js/main.1a60da55.chunk.js",
-    "main.js.map": "/front-grid/static/js/main.1a60da55.chunk.js.map",
-    "runtime-main.js": "/front-grid/static/js/runtime-main.63925e6f.js",
-    "runtime-main.js.map": "/front-grid/static/js/runtime-main.63925e6f.js.map",
-    "static/css/2.87a9c7a2.chunk.css": "/front-grid/static/css/2.87a9c7a2.chunk.css",
-    "static/js/2.7088475c.chunk.js": "/front-grid/static/js/2.7088475c.chunk.js",
-    "static/js/2.7088475c.chunk.js.map": "/front-grid/static/js/2.7088475c.chunk.js.map",
-    "index.html": "/front-grid/index.html",
-    "precache-manifest.34717b4b872c92a4c61468149aa392ca.js": "/front-grid/precache-manifest.34717b4b872c92a4c61468149aa392ca.js",
-    "service-worker.js": "/front-grid/service-worker.js",
-    "static/css/2.87a9c7a2.chunk.css.map": "/front-grid/static/css/2.87a9c7a2.chunk.css.map",
-    "static/css/main.f5b86faf.chunk.css.map": "/front-grid/static/css/main.f5b86faf.chunk.css.map",
-    "static/js/2.7088475c.chunk.js.LICENSE.txt": "/front-grid/static/js/2.7088475c.chunk.js.LICENSE.txt"
+    "main.css": "/asalcedod/front-grid/static/css/main.f5b86faf.chunk.css",
+    "main.js": "/asalcedod/front-grid/static/js/main.c28238d3.chunk.js",
+    "main.js.map": "/asalcedod/front-grid/static/js/main.c28238d3.chunk.js.map",
+    "runtime-main.js": "/asalcedod/front-grid/static/js/runtime-main.e85f1ccd.js",
+    "runtime-main.js.map": "/asalcedod/front-grid/static/js/runtime-main.e85f1ccd.js.map",
+    "static/css/2.87a9c7a2.chunk.css": "/asalcedod/front-grid/static/css/2.87a9c7a2.chunk.css",
+    "static/js/2.7088475c.chunk.js": "/asalcedod/front-grid/static/js/2.7088475c.chunk.js",
+    "static/js/2.7088475c.chunk.js.map": "/asalcedod/front-grid/static/js/2.7088475c.chunk.js.map",
+    "index.html": "/asalcedod/front-grid/index.html",
+    "precache-manifest.5195e349ea2ac2ad9461d3b946b27fc8.js": "/asalcedod/front-grid/precache-manifest.5195e349ea2ac2ad9461d3b946b27fc8.js",
+    "service-worker.js": "/asalcedod/front-grid/service-worker.js",
+    "static/css/2.87a9c7a2.chunk.css.map": "/asalcedod/front-grid/static/css/2.87a9c7a2.chunk.css.map",
+    "static/css/main.f5b86faf.chunk.css.map": "/asalcedod/front-grid/static/css/main.f5b86faf.chunk.css.map",
+    "static/js/2.7088475c.chunk.js.LICENSE.txt": "/asalcedod/front-grid/static/js/2.7088475c.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.63925e6f.js",
+    "static/js/runtime-main.e85f1ccd.js",
     "static/css/2.87a9c7a2.chunk.css",
     "static/js/2.7088475c.chunk.js",
     "static/css/main.f5b86faf.chunk.css",
-    "static/js/main.1a60da55.chunk.js"
+    "static/js/main.c28238d3.chunk.js"
   ]
 }
